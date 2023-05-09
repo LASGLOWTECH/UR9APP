@@ -78,6 +78,7 @@ const Hero = () => {
                         <h3 className="fw-bold">UR9 DRINKS</h3>
                         <p>Experience the taste of the tropics in every sip from our newest Vodka drink, CIKA. Cika is brewed with love and made from the freshest and highest quality ingredients, sourced from the finest growers and suppliers around the world. Each bottle is carefully crafted to ensure that you get the most authentic and delicious taste for your special moments.
                             CIKA is the perfect drink for your special occasions that comes in 8 refreshing flavours</p>
+                            {/* eslint-disable-next-line  */}
                         <button class="  btn btn-dark mt-4  text-warning fw-bold mb-3"><a className="text-decoration-none text-warning fw-bold" href="https://wa.me/2348171476946" target="_blank">Order now</a></button>
                     </div>
 
@@ -89,6 +90,8 @@ const Hero = () => {
                         <h3 className="fw-bold">UR9 PROPERTIES</h3>
                         <p className="px-1 ">We take pride in offering an exclusive range of luxurious homes and lands in choicest and growing locations that are designed to meet your taste From villas, mansions, spacious apartments to cozy cottages and bungalows, we have something for everyone. Our homes are crafted with attention to detail and feature top-of-the-line amenities, ensuring that you experience the ultimate in comfort and style and our lands are sure to give you a high return on investments.
                             UR9 properties help people get their dream homes and live it in reality.</p>
+                      
+                            {/* eslint-disable-next-line  */}
                         <button class="  btn btn-dark text-warning mt-4  fw-bold mb-3"><a className="text-decoration-none text-warning fw-bold" href="https://wa.me/2348171476946" target="_blank">Get a quote</a></button>
                     </div>
 
@@ -105,6 +108,7 @@ const Hero = () => {
                             we have the expertise and resources to handle any project. We pride ourselves on our commitment to quality, integrity, and professionalism.
 
                         </p>
+                        {/* eslint-disable-next-line  */}
                         <button class="  btn btn-dark text-warning mt-4 fw-bold mb-3"><a className="text-decoration-none text-warning fw-bold" href="https://wa.me/2348171476946" target="_blank">Schedule a Consultation</a></button>
                     </div>
 

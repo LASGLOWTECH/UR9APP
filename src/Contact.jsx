@@ -6,9 +6,9 @@ import emailjs from '@emailjs/browser';
 const ContactUs = () => {
 
 
-    const ServerId = process.env.REACT_app_FORM_SERVICE_ID
-    const templateId = process.env.REACT_FORM_TEMPLATE_ID
-    const tokenId = process.env.REACT_FORM_SERVICE_TOKEN
+    // const ServerId = process.env.REACT_app_FORM_SERVICE_ID
+    // const templateId = process.env.REACT_FORM_TEMPLATE_ID
+    // const tokenId = process.env.REACT_FORM_SERVICE_TOKEN
     
     const form = useRef();
     const [loading, setIsloading] = useState(false)

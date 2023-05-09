@@ -39,7 +39,7 @@ const Footer = () => {
 
 <div class="footer-icon d-flex  align-items-center justify-content-center ,max-w-100 mx-6 mb-7 col-12  "  >
 
-
+ {/* eslint-disable-next-line */}
   <a href="https://m.facebook.com/ur9.group" ><i class=" iconf fab fa-facebook-f" ></i></a>
   <a href="https://twitter.com/ur9group"  ><i class=" iconf fab fa-twitter" ></i></a>
   <a href="https://linkedin.com//company/ur9group/"><i class=" iconf fab fa-linkedin" ></i></a>

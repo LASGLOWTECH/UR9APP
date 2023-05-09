@@ -30,7 +30,6 @@
   },
   "browserslist": {
     "production": [
-      "since 2010",
       ">0.2%",
       "not dead",
       "not op_mini all"
@@ -40,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23"
   }
 }
