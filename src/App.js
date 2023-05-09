@@ -8,7 +8,7 @@ import ContactUs from './Contact';
 import Footer from './Footer';
 
 function App() {
-  console.log(process.env.REACT_APP_API_KEY);
+  // console.log(process.env.REACT_APP_API_KEY);
   return (
     <div className="App">
      
@@ -25,7 +25,7 @@ function App() {
 <Route path="/Contact"> <ContactUs/>  </Route>
 
 
-      </Switch>
+ </Switch>
  
     
 </div>
