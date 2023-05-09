@@ -21,7 +21,7 @@
   --violet: #5258FB;
   /* fonts */
   --h1-color: 'League Spartan', sans-serif;
-  --Rail-way: 'Raleway', sans-serif;
+  --Rail-way: 'Raleway',
     --Public-sans: 'Public Sans', sans-serif;
   --Poppings: 'Poppins', sans-serif;
   --Lato: 'Lato', sans-serif;
@@ -186,7 +186,7 @@ ul li {
 
   .nav-links {
     display: flex;
-    justify-content:flex-start ;
+    justify-content: start;
   }
 
   .nav-links a {
