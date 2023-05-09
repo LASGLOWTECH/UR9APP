@@ -21,7 +21,7 @@
   --violet: #5258FB;
   /* fonts */
   --h1-color: 'League Spartan', sans-serif;
-  --Rail-way: 'Raleway',
+  --Rail-way: 'Raleway', sans-serif;
     --Public-sans: 'Public Sans', sans-serif;
   --Poppings: 'Poppins', sans-serif;
   --Lato: 'Lato', sans-serif;
@@ -33,10 +33,10 @@
 
 
 p {
-  font-family: var(--Rail-way);
+  font-family: var(--Public-sans);
   line-height: 2.5;
 
-  font-weight: 400px;
+  font-weight: 200px;
 }
 
 
@@ -98,7 +98,8 @@ p {
 }
 
 h3 {
-  font-family: var(--Rail-way);
+  font-family: var(--lato);
+  font-weight: 400;
 }
 
 
@@ -185,7 +186,7 @@ ul li {
 
   .nav-links {
     display: flex;
-    justify-content: start;
+    justify-content:flex-start ;
   }
 
   .nav-links a {
